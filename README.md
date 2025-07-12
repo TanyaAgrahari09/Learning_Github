@@ -1,4 +1,4 @@
 # Learning_Github
 Just learning git and github.
 <br>
-Student-Tanya Agrahari
+Student-Tanya Agraharii
